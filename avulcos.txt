@@ -1,0 +1,58 @@
+extrutura do csv: 
+
+resultados_finais.append({
+                "Data": data_teste,
+                "Sistema_Operacional": info_hw['so_versao'],
+                "Processador": info_hw['processador'],
+                "Cores": info_hw['cores_fisicos'],
+                "Threads": info_hw['threads_logicos'],
+                "RAM_GB": info_hw['ram_gb'],
+                "Cenario": nome,
+                "N_Execucao": idx + 1,
+                "Tempo_s": round(t, 4),
+                "Status": status,
+                "Media_Cenario": round(media, 4)
+            })
+
+
+-Função para pegar o nome do sistema Operacional junto com a Versão-
+
+import time
+import platform
+import psutil
+import csv
+import numpy as np
+from datetime import datetime
+
+def obter_info_sistema():
+    #Identifica o Sistema Operacional
+    so_tipo = platform.system()
+    so_nome_completo = ""
+
+    if so_tipo == "Linux":
+        # a função freedesktop_os_release é melhor para retornar detalhes da distro (ex: Ubuntu, 22.04)
+        info = platform.freedesktop_os_release()
+        so_nome_completo = f"{info['NAME']} {info.get('VERSION_ID', '')}"
+    
+    elif so_tipo == "Windows":
+        so_nome_completo = f"Windows {platform.release()} (v{platform.version()})"
+    
+    else:
+        so_nome_completo = f"{so_tipo} {platform.release()}"
+
+    #Esse é para pegar o hardware
+    try:
+        import cpuinfo
+        cpu = cpuinfo.get_cpu_info()['brand_raw']
+    except:
+        cpu = platform.processor()
+
+    return {
+        "so_versao": so_nome_completo,
+        "processador": cpu,
+        "cores_fisicos": psutil.cpu_count(logical=False),
+        "threads_logicos": psutil.cpu_count(logical=True),
+        "ram_gb": round(psutil.virtual_memory().total / (1024**3), 2)
+    }
+
+
