@@ -1,4 +1,0 @@
-Data,Sistema_Operacional,Processador,Cores,Threads,RAM_GB,Cenario,N_Execucao,Tempo_s,Status,Media_Cenario
-2026-04-13 21:31:23,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Threads - 4 workers,1,0.0019,Encontrado,0.0019
-2026-04-13 21:31:23,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Threads - 4 workers,2,0.0011,Encontrado,0.0015
-2026-04-13 21:31:23,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Threads - 4 workers,3,0.001,Encontrado,0.0013
