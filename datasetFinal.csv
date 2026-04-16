@@ -1,0 +1,901 @@
+Data,Sistema_Operacional,Processador,Cores,Threads,RAM_GB,Cenario,N_Execucao,Tempo_s,Status,Media_Cenario
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,1,3.8046,Encontrado,3.8046
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,2,3.9874,Encontrado,3.896
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,3,3.8951,Encontrado,3.8957
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,4,3.9586,Encontrado,3.9114
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,5,4.0906,Encontrado,3.9473
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,6,4.1043,Encontrado,3.9734
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,7,4.1896,Encontrado,4.0043
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,8,4.156,Encontrado,4.0233
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,9,4.1365,Encontrado,4.0358
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,10,4.3535,Encontrado,4.0676
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,11,4.4371,Encontrado,4.1012
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,12,4.4789,Encontrado,4.1327
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,13,4.4682,Encontrado,4.1585
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,14,4.496,Encontrado,4.1826
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,15,4.5459,Encontrado,4.2068
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,16,4.4583,Encontrado,4.2225
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,17,4.6993,Encontrado,4.2506
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,18,4.6484,Encontrado,4.2727
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,19,4.5494,Encontrado,4.2872
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,20,4.4462,Encontrado,4.2952
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,21,4.6235,Encontrado,4.3108
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,22,4.8934,Encontrado,4.3373
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,23,5.3412,Encontrado,4.3809
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,24,4.5487,Encontrado,4.3879
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,25,4.5091,Encontrado,4.3928
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,26,4.6067,Encontrado,4.401
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,27,5.3841,Encontrado,4.4374
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,28,4.5981,Encontrado,4.4432
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,29,4.5174,Encontrado,4.4457
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,30,4.4863,Encontrado,4.4471
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,1,0.3206,Encontrado,4.314
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,2,0.2927,Encontrado,4.1883
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,3,0.2727,Encontrado,4.0696
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,4,0.2691,Encontrado,3.9579
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,5,0.2758,Encontrado,3.8527
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,6,0.2709,Encontrado,3.7532
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,7,0.2699,Encontrado,3.659
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,8,0.2705,Encontrado,3.5699
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,9,0.2648,Encontrado,3.4851
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,10,0.2712,Encontrado,3.4048
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,11,0.2745,Encontrado,3.3284
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,12,0.2747,Encontrado,3.2557
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,13,0.2698,Encontrado,3.1863
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,14,0.2743,Encontrado,3.1201
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,15,0.2698,Encontrado,3.0567
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,16,0.271,Encontrado,2.9962
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,17,0.2741,Encontrado,2.9383
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,18,0.2695,Encontrado,2.8827
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,19,0.2697,Encontrado,2.8293
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,20,0.271,Encontrado,2.7782
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,21,0.2707,Encontrado,2.729
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,22,0.2766,Encontrado,2.6818
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,23,0.2729,Encontrado,2.6364
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,24,0.2724,Encontrado,2.5926
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,25,0.27,Encontrado,2.5504
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,26,0.268,Encontrado,2.5096
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,27,0.2662,Encontrado,2.4703
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,28,0.2736,Encontrado,2.4324
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,29,0.2736,Encontrado,2.3958
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,30,0.2685,Encontrado,2.3604
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,1,0.0275,Encontrado,2.3221
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,2,0.0315,Encontrado,2.2852
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,3,0.031,Encontrado,2.2494
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,4,0.0311,Encontrado,2.2147
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,5,0.0302,Encontrado,2.1811
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,6,0.0303,Encontrado,2.1485
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,7,0.0308,Encontrado,2.1169
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,8,0.0305,Encontrado,2.0862
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,9,0.0313,Encontrado,2.0565
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,10,0.031,Encontrado,2.0275
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,11,0.0313,Encontrado,1.9994
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,12,0.032,Encontrado,1.9721
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,13,0.0312,Encontrado,1.9455
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,14,0.0304,Encontrado,1.9196
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,15,0.0308,Encontrado,1.8944
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,16,0.0312,Encontrado,1.8699
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,17,0.0314,Encontrado,1.846
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,18,0.0311,Encontrado,1.8228
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,19,0.0309,Encontrado,1.8001
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,20,0.0313,Encontrado,1.778
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,21,0.0315,Encontrado,1.7564
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,22,0.0315,Encontrado,1.7354
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,23,0.0304,Encontrado,1.7148
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,24,0.0306,Encontrado,1.6948
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,25,0.0316,Encontrado,1.6752
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,26,0.0311,Encontrado,1.6561
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,27,0.0309,Encontrado,1.6374
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,28,0.0323,Encontrado,1.6192
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,29,0.0305,Encontrado,1.6013
+15-04-2026 08:18:54,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,30,0.0307,Encontrado,1.5839
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,1,3.9539,Encontrado,3.9539
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,2,4.0704,Encontrado,4.0121
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,3,4.0144,Encontrado,4.0129
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,4,4.0234,Encontrado,4.0155
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,5,4.1179,Encontrado,4.036
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,6,4.1132,Encontrado,4.0489
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,7,4.2467,Encontrado,4.0771
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,8,4.3105,Encontrado,4.1063
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,9,4.3828,Encontrado,4.137
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,10,4.2979,Encontrado,4.1531
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,11,4.4067,Encontrado,4.1762
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,12,4.3412,Encontrado,4.1899
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,13,4.2803,Encontrado,4.1969
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,14,4.2242,Encontrado,4.1988
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,15,4.4432,Encontrado,4.2151
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,16,4.4263,Encontrado,4.2283
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,17,4.2757,Encontrado,4.2311
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,18,4.3297,Encontrado,4.2366
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,19,4.3204,Encontrado,4.241
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,20,4.4708,Encontrado,4.2525
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,21,4.3368,Encontrado,4.2565
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,22,4.3913,Encontrado,4.2626
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,23,4.4929,Encontrado,4.2726
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,24,4.4001,Encontrado,4.2779
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,25,4.2542,Encontrado,4.277
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,26,4.3885,Encontrado,4.2813
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,27,4.3847,Encontrado,4.2851
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,28,4.3945,Encontrado,4.289
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,29,4.2679,Encontrado,4.2883
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,30,4.317,Encontrado,4.2892
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,1,0.3058,Encontrado,4.1607
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,2,0.3561,Encontrado,4.0419
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,3,0.3944,Encontrado,3.9313
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,4,0.3626,Encontrado,3.8264
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,5,0.3587,Encontrado,3.7273
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,6,0.3594,Encontrado,3.6337
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,7,0.3548,Encontrado,3.5451
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,8,0.3513,Encontrado,3.4611
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,9,0.3527,Encontrado,3.3814
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,10,0.3462,Encontrado,3.3055
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,11,0.3467,Encontrado,3.2333
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,12,0.3477,Encontrado,3.1646
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,13,0.3557,Encontrado,3.0993
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,14,0.3507,Encontrado,3.0368
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,15,0.3555,Encontrado,2.9772
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,16,0.3504,Encontrado,2.9201
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,17,0.344,Encontrado,2.8653
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,18,0.3527,Encontrado,2.813
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,19,0.3432,Encontrado,2.7626
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,20,0.3534,Encontrado,2.7144
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,21,0.3541,Encontrado,2.6681
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,22,0.3514,Encontrado,2.6236
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,23,0.342,Encontrado,2.5805
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,24,0.3507,Encontrado,2.5392
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,25,0.3452,Encontrado,2.4993
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,26,0.3451,Encontrado,2.4609
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,27,0.3521,Encontrado,2.4239
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,28,0.3466,Encontrado,2.388
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,29,0.3402,Encontrado,2.3533
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,30,0.3459,Encontrado,2.3199
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,1,0.0866,Encontrado,2.2833
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,2,0.172,Encontrado,2.2492
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,3,0.0946,Encontrado,2.215
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,4,0.0775,Encontrado,2.1816
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,5,0.1245,Encontrado,2.15
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,6,0.0779,Encontrado,2.1186
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,7,0.0785,Encontrado,2.0881
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,8,0.0783,Encontrado,2.0586
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,9,0.1086,Encontrado,2.0303
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,10,0.0766,Encontrado,2.0024
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,11,0.0939,Encontrado,1.9755
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,12,0.0783,Encontrado,1.9492
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,13,0.0785,Encontrado,1.9235
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,14,0.0803,Encontrado,1.8986
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,15,0.1214,Encontrado,1.8749
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,16,0.0784,Encontrado,1.8513
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,17,0.0956,Encontrado,1.8285
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,18,0.0771,Encontrado,1.806
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,19,0.0936,Encontrado,1.7844
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,20,0.0784,Encontrado,1.763
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,21,0.1247,Encontrado,1.7428
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,22,0.0768,Encontrado,1.7225
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,23,0.0789,Encontrado,1.7027
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,24,0.0785,Encontrado,1.6834
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,25,0.0943,Encontrado,1.6647
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,26,0.0781,Encontrado,1.6462
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,27,0.078,Encontrado,1.6282
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,28,0.1082,Encontrado,1.6109
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,29,0.0791,Encontrado,1.5937
+15-04-2026 08:37:50,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,30,0.078,Encontrado,1.5769
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,1,3.9314,Encontrado,3.9314
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,2,4.1258,Encontrado,4.0286
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,3,4.0582,Encontrado,4.0385
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,4,4.074,Encontrado,4.0474
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,5,4.2416,Encontrado,4.0862
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,6,4.3115,Encontrado,4.1238
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,7,4.3845,Encontrado,4.161
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,8,4.4814,Encontrado,4.2011
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,9,4.4673,Encontrado,4.2306
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,10,4.4651,Encontrado,4.2541
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,11,4.5095,Encontrado,4.2773
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,12,4.5974,Encontrado,4.304
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,13,4.4518,Encontrado,4.3153
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,14,4.5573,Encontrado,4.3326
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,15,4.5937,Encontrado,4.35
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,16,4.6228,Encontrado,4.3671
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,17,4.5368,Encontrado,4.3771
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,18,4.489,Encontrado,4.3833
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,19,4.5969,Encontrado,4.3945
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,20,4.3787,Encontrado,4.3937
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,21,4.5582,Encontrado,4.4016
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,22,4.604,Encontrado,4.4108
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,23,4.6113,Encontrado,4.4195
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,24,4.6487,Encontrado,4.429
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,25,5.2674,Encontrado,4.4626
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,26,4.4324,Encontrado,4.4614
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,27,4.8117,Encontrado,4.4744
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,28,4.6661,Encontrado,4.4812
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,29,4.6957,Encontrado,4.4886
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,30,4.598,Encontrado,4.4923
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,1,2.4214,Encontrado,4.4255
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,2,0.5708,Encontrado,4.305
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,3,0.5588,Encontrado,4.1915
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,4,0.5513,Encontrado,4.0844
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,5,0.5398,Encontrado,3.9831
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,6,0.5883,Encontrado,3.8888
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,7,0.5505,Encontrado,3.7986
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,8,0.5575,Encontrado,3.7133
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,9,0.5559,Encontrado,3.6324
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,10,0.5504,Encontrado,3.5553
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,11,0.535,Encontrado,3.4817
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,12,0.5404,Encontrado,3.4116
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,13,0.5406,Encontrado,3.3449
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,14,0.5356,Encontrado,3.281
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,15,0.5378,Encontrado,3.22
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,16,0.5292,Encontrado,3.1615
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,17,0.5515,Encontrado,3.106
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,18,0.5566,Encontrado,3.0529
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,19,0.5401,Encontrado,3.0016
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,20,0.5336,Encontrado,2.9523
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,21,0.5395,Encontrado,2.905
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,22,0.5346,Encontrado,2.8594
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,23,0.535,Encontrado,2.8155
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,24,0.5651,Encontrado,2.7738
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,25,0.5376,Encontrado,2.7332
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,26,0.5306,Encontrado,2.6938
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,27,0.5448,Encontrado,2.6561
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,28,0.5601,Encontrado,2.62
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,29,0.5493,Encontrado,2.5849
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,30,0.5462,Encontrado,2.5509
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,1,0.2888,Encontrado,2.5138
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,2,0.2823,Encontrado,2.4779
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,3,0.2491,Encontrado,2.4425
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,4,0.1719,Encontrado,2.407
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,5,0.3124,Encontrado,2.3748
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,6,0.4397,Encontrado,2.3455
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,7,0.4718,Encontrado,2.3175
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,8,0.1739,Encontrado,2.286
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,9,0.2813,Encontrado,2.2569
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,10,0.5658,Encontrado,2.2328
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,11,0.2359,Encontrado,2.2046
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,12,0.2525,Encontrado,2.1775
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,13,0.4084,Encontrado,2.1533
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,14,0.3139,Encontrado,2.1284
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,15,0.2682,Encontrado,2.1036
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,16,0.1886,Encontrado,2.0784
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,17,0.2338,Encontrado,2.0545
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,18,0.3273,Encontrado,2.0323
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,19,0.2818,Encontrado,2.0102
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,20,0.2039,Encontrado,1.9876
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,21,0.2354,Encontrado,1.966
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,22,0.2194,Encontrado,1.9447
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,23,0.2012,Encontrado,1.9236
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,24,0.2513,Encontrado,1.9037
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,25,0.2676,Encontrado,1.8845
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,26,0.3917,Encontrado,1.8671
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,27,0.3627,Encontrado,1.8498
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,28,0.3768,Encontrado,1.8331
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,29,0.391,Encontrado,1.8169
+15-04-2026 10:14:39,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,30,0.2352,Encontrado,1.7993
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,1,7.7837,Não Encontrado,7.7837
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,2,8.0355,Não Encontrado,7.9096
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,3,8.1559,Não Encontrado,7.9917
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,4,8.1871,Não Encontrado,8.0405
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,5,8.4,Não Encontrado,8.1124
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,6,8.4492,Não Encontrado,8.1686
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,7,8.6366,Não Encontrado,8.2354
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,8,8.9242,Não Encontrado,8.3215
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,9,8.8731,Não Encontrado,8.3828
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,10,8.9672,Não Encontrado,8.4412
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,11,8.816,Não Encontrado,8.4753
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,12,8.6917,Não Encontrado,8.4933
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,13,8.8511,Não Encontrado,8.5209
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,14,8.5281,Não Encontrado,8.5214
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,15,8.7267,Não Encontrado,8.5351
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,16,8.5136,Não Encontrado,8.5337
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,17,8.8767,Não Encontrado,8.5539
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,18,8.7946,Não Encontrado,8.5673
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,19,8.2463,Não Encontrado,8.5504
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,20,8.5218,Não Encontrado,8.549
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,21,8.7524,Não Encontrado,8.5586
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,22,8.7248,Não Encontrado,8.5662
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,23,8.9747,Não Encontrado,8.584
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,24,8.7984,Não Encontrado,8.5929
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,25,9.1415,Não Encontrado,8.6148
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,26,8.9927,Não Encontrado,8.6294
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,27,9.0348,Não Encontrado,8.6444
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,28,9.0882,Não Encontrado,8.6602
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,29,9.0967,Não Encontrado,8.6753
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,30,9.1754,Não Encontrado,8.692
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,1,41.0096,Não Encontrado,9.7345
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,2,45.5931,Não Encontrado,10.855
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,3,45.7772,Não Encontrado,11.9133
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,4,49.98,Não Encontrado,13.0329
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,5,49.8358,Não Encontrado,14.0844
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,6,49.5895,Não Encontrado,15.0707
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,7,47.3568,Não Encontrado,15.9433
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,8,49.81,Não Encontrado,16.8345
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,9,51.0245,Não Encontrado,17.7112
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,10,51.0123,Não Encontrado,18.5437
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,11,50.1477,Não Encontrado,19.3145
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,12,50.9437,Não Encontrado,20.0676
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,13,46.3643,Não Encontrado,20.6791
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,14,49.2221,Não Encontrado,21.3279
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,15,55.4565,Não Encontrado,22.0863
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,16,51.1959,Não Encontrado,22.7191
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,17,52.0825,Não Encontrado,23.3438
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,18,51.3723,Não Encontrado,23.9278
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,19,47.4179,Não Encontrado,24.4072
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,20,52.7322,Não Encontrado,24.9737
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,21,53.6462,Não Encontrado,25.5359
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,22,51.4162,Não Encontrado,26.0336
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,23,51.734,Não Encontrado,26.5185
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,24,51.8968,Não Encontrado,26.9884
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,25,52.5778,Não Encontrado,27.4537
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,26,48.5553,Não Encontrado,27.8305
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,27,48.4014,Não Encontrado,28.1914
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,28,49.3905,Não Encontrado,28.5569
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,29,52.3421,Não Encontrado,28.96
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Processos,30,51.8929,Não Encontrado,29.3423
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,1,7.8392,Não Encontrado,28.9898
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,2,8.2418,Não Encontrado,28.6551
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,3,8.3484,Não Encontrado,28.3328
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,4,8.6091,Não Encontrado,28.0246
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,5,9.0917,Não Encontrado,27.7333
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,6,10.0106,Não Encontrado,27.4648
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,7,10.4409,Não Encontrado,27.2107
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,8,10.3971,Não Encontrado,26.9634
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,9,10.0641,Não Encontrado,26.7185
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,10,9.72,Não Encontrado,26.4757
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,11,10.4467,Não Encontrado,26.2499
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,12,10.2795,Não Encontrado,26.0281
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,13,9.9822,Não Encontrado,25.8083
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,14,9.8507,Não Encontrado,25.5927
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,15,9.8817,Não Encontrado,25.3832
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,16,10.5324,Não Encontrado,25.1878
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,17,10.4532,Não Encontrado,24.9964
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,18,10.8296,Não Encontrado,24.8148
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,19,10.7626,Não Encontrado,24.6369
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,20,11.5487,Não Encontrado,24.4733
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,21,10.9508,Não Encontrado,24.3064
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,22,11.1372,Não Encontrado,24.1458
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,23,10.3627,Não Encontrado,23.9797
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,24,10.0905,Não Encontrado,23.8144
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,25,9.5796,Não Encontrado,23.6469
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,26,10.2196,Não Encontrado,23.4908
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,27,9.8209,Não Encontrado,23.3336
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,28,10.2031,Não Encontrado,23.1844
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,29,9.9717,Não Encontrado,23.036
+15-04-2026 15:33:05,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,2 Threads,30,10.7245,Não Encontrado,22.8992
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,1,10.3453,Não Encontrado,10.3453
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,2,9.3197,Não Encontrado,9.8325
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,3,9.4237,Não Encontrado,9.6962
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,4,9.5578,Não Encontrado,9.6616
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,5,10.2565,Não Encontrado,9.7806
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,6,9.9334,Não Encontrado,9.8061
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,7,10.1102,Não Encontrado,9.8495
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,8,11.0707,Não Encontrado,10.0022
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,9,10.718,Não Encontrado,10.0817
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,10,11.445,Não Encontrado,10.218
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,11,9.3926,Não Encontrado,10.143
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,12,9.5562,Não Encontrado,10.0941
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,13,10.0236,Não Encontrado,10.0887
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,14,10.2827,Não Encontrado,10.1025
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,15,9.7164,Não Encontrado,10.0768
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,16,10.2538,Não Encontrado,10.0879
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,17,11.2372,Não Encontrado,10.1555
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,18,10.5431,Não Encontrado,10.177
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,19,12.5029,Não Encontrado,10.2994
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,20,14.499,Não Encontrado,10.5094
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,21,13.2125,Não Encontrado,10.6381
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,22,11.3047,Não Encontrado,10.6684
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,23,11.9973,Não Encontrado,10.7262
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,24,12.4466,Não Encontrado,10.7979
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,25,10.7728,Não Encontrado,10.7969
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,26,10.6588,Não Encontrado,10.7916
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,27,10.8853,Não Encontrado,10.795
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,28,12.4493,Não Encontrado,10.8541
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,29,16.1356,Não Encontrado,11.0362
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,30,13.5239,Não Encontrado,11.1192
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,1,76.8364,Não Encontrado,13.2391
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,2,69.7732,Não Encontrado,15.0058
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,3,76.2067,Não Encontrado,16.8603
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,4,80.329,Não Encontrado,18.7271
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,5,78.4916,Não Encontrado,20.4346
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,6,78.6139,Não Encontrado,22.0507
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,7,79.294,Não Encontrado,23.5978
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,8,78.2748,Não Encontrado,25.0367
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,9,78.7669,Não Encontrado,26.4144
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,10,78.3215,Não Encontrado,27.7121
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,11,79.095,Não Encontrado,28.9653
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,12,78.5941,Não Encontrado,30.1469
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,13,80.0821,Não Encontrado,31.3082
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,14,78.9135,Não Encontrado,32.3902
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,15,78.7129,Não Encontrado,33.4196
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,16,78.8725,Não Encontrado,34.4077
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,17,78.3492,Não Encontrado,35.3426
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,18,79.9096,Não Encontrado,36.2711
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,19,78.7439,Não Encontrado,37.1379
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,20,79.4287,Não Encontrado,37.9837
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,21,79.2462,Não Encontrado,38.7927
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,22,79.1764,Não Encontrado,39.5694
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,23,78.1433,Não Encontrado,40.2972
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,24,78.9796,Não Encontrado,41.0135
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,25,80.5143,Não Encontrado,41.7317
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,26,77.9397,Não Encontrado,42.3783
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,27,80.1335,Não Encontrado,43.0406
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,28,79.3048,Não Encontrado,43.6659
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,29,80.0742,Não Encontrado,44.283
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Processos,30,78.7624,Não Encontrado,44.8576
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,1,8.3537,Não Encontrado,44.2592
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,2,8.6401,Não Encontrado,43.6847
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,3,8.8266,Não Encontrado,43.1314
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,4,10.8545,Não Encontrado,42.6271
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,5,11.0093,Não Encontrado,42.1407
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,6,9.9722,Não Encontrado,41.6533
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,7,9.9337,Não Encontrado,41.1798
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,8,10.0239,Não Encontrado,40.7217
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,9,9.8992,Não Encontrado,40.275
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,10,10.9864,Não Encontrado,39.8565
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,11,10.3197,Não Encontrado,39.4405
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,12,11.3158,Não Encontrado,39.0499
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,13,11.3785,Não Encontrado,38.6708
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,14,12.6086,Não Encontrado,38.3187
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,15,12.9934,Não Encontrado,37.981
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,16,11.957,Não Encontrado,37.6386
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,17,12.2642,Não Encontrado,37.309
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,18,12.0478,Não Encontrado,36.9852
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,19,11.0186,Não Encontrado,36.6565
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,20,10.7327,Não Encontrado,36.3324
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,21,12.663,Não Encontrado,36.0402
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,22,11.636,Não Encontrado,35.7426
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,23,10.4879,Não Encontrado,35.4383
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,24,12.524,Não Encontrado,35.1655
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,25,13.3482,Não Encontrado,34.9089
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,26,13.0737,Não Encontrado,34.655
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,27,13.1089,Não Encontrado,34.4073
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,28,10.3057,Não Encontrado,34.1334
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,29,11.7603,Não Encontrado,33.882
+15-04-2026 20:52:24,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,4 Threads,30,10.9396,Não Encontrado,33.6271
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,1,7.532,Não Encontrado,7.532
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,2,7.6804,Não Encontrado,7.6062
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,3,7.6624,Não Encontrado,7.6249
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,4,7.6853,Não Encontrado,7.64
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,5,7.6835,Não Encontrado,7.6487
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,6,7.6854,Não Encontrado,7.6548
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,7,7.6737,Não Encontrado,7.6575
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,8,7.6781,Não Encontrado,7.6601
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,9,7.6551,Não Encontrado,7.6595
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,10,7.6578,Não Encontrado,7.6594
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,11,7.6453,Não Encontrado,7.6581
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,12,7.6662,Não Encontrado,7.6588
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,13,7.6343,Não Encontrado,7.6569
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,14,7.6491,Não Encontrado,7.6563
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,15,7.6508,Não Encontrado,7.6559
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,16,7.6621,Não Encontrado,7.6563
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,17,7.6649,Não Encontrado,7.6568
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,18,7.6249,Não Encontrado,7.6551
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,19,7.5638,Não Encontrado,7.6503
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,20,7.5488,Não Encontrado,7.6452
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,21,7.569,Não Encontrado,7.6416
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,22,7.5646,Não Encontrado,7.6381
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,23,7.5503,Não Encontrado,7.6342
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,24,7.5939,Não Encontrado,7.6326
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,25,7.5735,Não Encontrado,7.6302
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,26,7.5659,Não Encontrado,7.6277
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,27,7.5462,Não Encontrado,7.6247
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,28,7.5481,Não Encontrado,7.622
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,29,7.5359,Não Encontrado,7.619
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,30,7.5929,Não Encontrado,7.6181
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,1,26.7469,Não Encontrado,8.2352
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,2,26.4797,Não Encontrado,8.8053
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,3,26.3472,Não Encontrado,9.3369
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,4,26.4036,Não Encontrado,9.8389
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,5,26.8057,Não Encontrado,10.3236
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,6,26.5522,Não Encontrado,10.7744
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,7,25.6164,Não Encontrado,11.1756
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,8,26.1559,Não Encontrado,11.5698
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,9,26.5503,Não Encontrado,11.9539
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,10,26.7051,Não Encontrado,12.3227
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,11,26.1458,Não Encontrado,12.6598
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,12,26.4921,Não Encontrado,12.9892
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,13,26.4762,Não Encontrado,13.3028
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,14,26.2931,Não Encontrado,13.5981
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,15,26.1898,Não Encontrado,13.8779
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,16,25.9284,Não Encontrado,14.1398
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,17,26.0184,Não Encontrado,14.3926
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,18,26.4555,Não Encontrado,14.6439
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,19,26.7752,Não Encontrado,14.8915
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,20,25.8197,Não Encontrado,15.11
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,21,26.0776,Não Encontrado,15.3251
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,22,26.2365,Não Encontrado,15.5349
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,23,26.1407,Não Encontrado,15.735
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,24,26.7031,Não Encontrado,15.9381
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,25,26.0177,Não Encontrado,16.1214
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,26,25.6549,Não Encontrado,16.2916
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,27,26.5393,Não Encontrado,16.4714
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,28,25.9282,Não Encontrado,16.6345
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,29,26.9843,Não Encontrado,16.8099
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,30,26.5517,Não Encontrado,16.9723
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,1,8.0867,Não Encontrado,16.8266
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,2,8.177,Não Encontrado,16.6871
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,3,8.1014,Não Encontrado,16.5508
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,4,8.2013,Não Encontrado,16.4203
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,5,8.1695,Não Encontrado,16.2934
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,6,8.1869,Não Encontrado,16.1706
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,7,8.1081,Não Encontrado,16.0502
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,8,8.2177,Não Encontrado,15.9351
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,9,8.1598,Não Encontrado,15.8224
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,10,8.1896,Não Encontrado,15.7133
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,11,8.1838,Não Encontrado,15.6073
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,12,8.1868,Não Encontrado,15.5042
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,13,8.2543,Não Encontrado,15.4049
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,14,8.2436,Não Encontrado,15.3081
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,15,8.2296,Não Encontrado,15.2137
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,16,8.2672,Não Encontrado,15.1223
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,17,8.141,Não Encontrado,15.0317
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,18,8.2569,Não Encontrado,14.9448
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,19,8.2002,Não Encontrado,14.8594
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,20,8.2335,Não Encontrado,14.7766
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,21,8.1752,Não Encontrado,14.6951
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,22,8.1795,Não Encontrado,14.6157
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,23,8.1942,Não Encontrado,14.5383
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,24,8.2309,Não Encontrado,14.4632
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,25,8.1805,Não Encontrado,14.3893
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,26,8.1018,Não Encontrado,14.3162
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,27,8.1671,Não Encontrado,14.2455
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,28,8.1836,Não Encontrado,14.1766
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,29,8.0929,Não Encontrado,14.1083
+14-04-2026 22:22:31,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,30,8.136,Não Encontrado,14.0419
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,1,7.7173,Não Encontrado,7.7173
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,2,7.9561,Não Encontrado,7.8367
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,3,7.9437,Não Encontrado,7.8724
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,4,7.9591,Não Encontrado,7.8941
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,5,7.9607,Não Encontrado,7.9074
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,6,7.9688,Não Encontrado,7.9176
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,7,7.9375,Não Encontrado,7.9205
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,8,8.011,Não Encontrado,7.9318
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,9,7.8669,Não Encontrado,7.9246
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,10,7.8774,Não Encontrado,7.9199
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,11,7.8637,Não Encontrado,7.9148
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,12,7.8808,Não Encontrado,7.9119
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,13,7.853,Não Encontrado,7.9074
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,14,7.8807,Não Encontrado,7.9055
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,15,7.8754,Não Encontrado,7.9035
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,16,7.8728,Não Encontrado,7.9016
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,17,7.8811,Não Encontrado,7.9004
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,18,7.8493,Não Encontrado,7.8975
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,19,7.749,Não Encontrado,7.8897
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,20,7.7521,Não Encontrado,7.8828
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,21,7.7462,Não Encontrado,7.8763
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,22,7.7403,Não Encontrado,7.8701
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,23,7.7489,Não Encontrado,7.8649
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,24,7.752,Não Encontrado,7.8602
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,25,7.7582,Não Encontrado,7.8561
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,26,7.8139,Não Encontrado,7.8545
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,27,7.8504,Não Encontrado,7.8543
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,28,7.8736,Não Encontrado,7.855
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,29,7.8417,Não Encontrado,7.8545
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,30,7.8528,Não Encontrado,7.8545
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,1,7.6012,Não Encontrado,7.8463
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,2,7.9532,Não Encontrado,7.8496
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,3,7.8023,Não Encontrado,7.8482
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,4,7.8414,Não Encontrado,7.848
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,5,7.8681,Não Encontrado,7.8486
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,6,7.9066,Não Encontrado,7.8502
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,7,7.7564,Não Encontrado,7.8477
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,8,7.8732,Não Encontrado,7.8483
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,9,7.8951,Não Encontrado,7.8495
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,10,7.9537,Não Encontrado,7.8521
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,11,7.8264,Não Encontrado,7.8515
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,12,7.8879,Não Encontrado,7.8524
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,13,7.883,Não Encontrado,7.8531
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,14,8.0142,Não Encontrado,7.8568
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,15,7.8437,Não Encontrado,7.8565
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,16,7.9273,Não Encontrado,7.858
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,17,7.8043,Não Encontrado,7.8569
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,18,7.8251,Não Encontrado,7.8562
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,19,7.8022,Não Encontrado,7.8551
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,20,7.7483,Não Encontrado,7.853
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,21,7.8795,Não Encontrado,7.8535
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,22,7.8624,Não Encontrado,7.8537
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,23,7.8206,Não Encontrado,7.853
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,24,7.8193,Não Encontrado,7.8524
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,25,7.8545,Não Encontrado,7.8524
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,26,7.9467,Não Encontrado,7.8541
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,27,7.7447,Não Encontrado,7.8522
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,28,7.8798,Não Encontrado,7.8527
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,29,7.8236,Não Encontrado,7.8522
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,30,7.8465,Não Encontrado,7.8521
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,1,8.2143,Não Encontrado,7.858
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,2,8.3488,Não Encontrado,7.866
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,3,8.3786,Não Encontrado,7.8741
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,4,8.3455,Não Encontrado,7.8815
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,5,8.3569,Não Encontrado,7.8888
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,6,8.3316,Não Encontrado,7.8955
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,7,8.3179,Não Encontrado,7.9018
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,8,8.3608,Não Encontrado,7.9085
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,9,8.3269,Não Encontrado,7.9146
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,10,8.3864,Não Encontrado,7.9213
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,11,8.3811,Não Encontrado,7.9278
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,12,8.3633,Não Encontrado,7.9339
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,13,8.3971,Não Encontrado,7.9402
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,14,8.398,Não Encontrado,7.9464
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,15,8.377,Não Encontrado,7.9521
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,16,8.3468,Não Encontrado,7.9573
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,17,8.3568,Não Encontrado,7.9625
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,18,8.3603,Não Encontrado,7.9676
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,19,8.3282,Não Encontrado,7.9722
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,20,8.3338,Não Encontrado,7.9767
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,21,8.3097,Não Encontrado,7.9808
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,22,8.3156,Não Encontrado,7.9849
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,23,8.3416,Não Encontrado,7.9892
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,24,8.3375,Não Encontrado,7.9933
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,25,8.3022,Não Encontrado,7.997
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,26,8.3516,Não Encontrado,8.0011
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,27,8.2923,Não Encontrado,8.0044
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,28,8.3419,Não Encontrado,8.0083
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,29,8.3425,Não Encontrado,8.012
+14-04-2026 23:03:03,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,30,8.3433,Não Encontrado,8.0157
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,1,3.7472,Encontrado,3.7472
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,2,3.8966,Encontrado,3.8219
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,3,3.8928,Encontrado,3.8456
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,4,3.9037,Encontrado,3.8601
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,5,3.914,Encontrado,3.8709
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,6,3.9124,Encontrado,3.8778
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,7,3.9169,Encontrado,3.8834
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,8,3.9042,Encontrado,3.886
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,9,3.9042,Encontrado,3.888
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,10,3.908,Encontrado,3.89
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,11,3.9075,Encontrado,3.8916
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,12,3.9212,Encontrado,3.8941
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,13,3.9268,Encontrado,3.8966
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,14,3.901,Encontrado,3.8969
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,15,3.9262,Encontrado,3.8989
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,16,3.9094,Encontrado,3.8995
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,17,3.9113,Encontrado,3.9002
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,18,3.9056,Encontrado,3.9005
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,19,3.9017,Encontrado,3.9006
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,20,3.9124,Encontrado,3.9012
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,21,3.9057,Encontrado,3.9014
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,22,3.9157,Encontrado,3.902
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,23,3.9172,Encontrado,3.9027
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,24,3.9097,Encontrado,3.903
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,25,3.8939,Encontrado,3.9026
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,26,3.9212,Encontrado,3.9033
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,27,3.9134,Encontrado,3.9037
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,28,3.894,Encontrado,3.9034
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,29,3.91,Encontrado,3.9036
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,30,3.905,Encontrado,3.9036
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,1,0.292,Encontrado,3.7871
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,2,0.2458,Encontrado,3.6765
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,3,0.2544,Encontrado,3.5728
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,4,0.2547,Encontrado,3.4752
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,5,0.2414,Encontrado,3.3828
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,6,0.231,Encontrado,3.2952
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,7,0.2407,Encontrado,3.2127
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,8,0.24,Encontrado,3.1344
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,9,0.2384,Encontrado,3.0602
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,10,0.2337,Encontrado,2.9895
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,11,0.2326,Encontrado,2.9223
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,12,0.245,Encontrado,2.8585
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,13,0.238,Encontrado,2.7976
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,14,0.2402,Encontrado,2.7395
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,15,0.232,Encontrado,2.6838
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,16,0.2434,Encontrado,2.6307
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,17,0.2351,Encontrado,2.5797
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,18,0.2395,Encontrado,2.531
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,19,0.2324,Encontrado,2.4841
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,20,0.2324,Encontrado,2.439
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,21,0.2376,Encontrado,2.3959
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,22,0.2369,Encontrado,2.3543
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,23,0.2405,Encontrado,2.3145
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,24,0.2406,Encontrado,2.2761
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,25,0.2314,Encontrado,2.2389
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,26,0.2329,Encontrado,2.2031
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,27,0.236,Encontrado,2.1686
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,28,0.2375,Encontrado,2.1353
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,29,0.2455,Encontrado,2.1032
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Processos,30,0.2399,Encontrado,2.0722
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,1,0.6098,Encontrado,2.0482
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,2,1.9358,Encontrado,2.0464
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,3,0.0312,Encontrado,2.0144
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,4,0.0261,Encontrado,1.9833
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,5,0.944,Encontrado,1.9673
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,6,0.0718,Encontrado,1.9386
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,7,0.016,Encontrado,1.9099
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,8,0.0261,Encontrado,1.8822
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,9,0.021,Encontrado,1.8552
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,10,0.2696,Encontrado,1.8326
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,11,0.0261,Encontrado,1.8072
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,12,0.0159,Encontrado,1.7823
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,13,0.0361,Encontrado,1.7584
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,14,0.5087,Encontrado,1.7415
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,15,0.8849,Encontrado,1.73
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,16,0.0261,Encontrado,1.7076
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,17,0.0261,Encontrado,1.6858
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,18,0.0262,Encontrado,1.6645
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,19,0.0211,Encontrado,1.6437
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,20,0.0106,Encontrado,1.6233
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,21,0.0158,Encontrado,1.6034
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,22,0.021,Encontrado,1.5841
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,23,0.0312,Encontrado,1.5654
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,24,0.0312,Encontrado,1.5472
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,25,0.0262,Encontrado,1.5293
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,26,0.0312,Encontrado,1.5119
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,27,0.3863,Encontrado,1.4989
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,28,0.026,Encontrado,1.4822
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,29,0.0261,Encontrado,1.4658
+14-04-2026 22:00:07,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,4 Threads,30,0.0261,Encontrado,1.4498
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,1,3.7074,Encontrado,3.7074
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,2,3.9109,Encontrado,3.8092
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,3,3.9006,Encontrado,3.8396
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,4,3.8928,Encontrado,3.8529
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,5,3.8822,Encontrado,3.8588
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,6,3.8902,Encontrado,3.864
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,7,3.8916,Encontrado,3.868
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,8,3.8904,Encontrado,3.8708
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,9,3.889,Encontrado,3.8728
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,10,3.8773,Encontrado,3.8732
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,11,3.8964,Encontrado,3.8754
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,12,3.8899,Encontrado,3.8766
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,13,3.8708,Encontrado,3.8761
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,14,3.8801,Encontrado,3.8764
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,15,3.869,Encontrado,3.8759
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,16,3.8971,Encontrado,3.8772
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,17,3.8801,Encontrado,3.8774
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,18,3.8739,Encontrado,3.8772
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,19,3.8757,Encontrado,3.8771
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,20,3.8686,Encontrado,3.8767
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,21,3.8867,Encontrado,3.8772
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,22,3.877,Encontrado,3.8772
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,23,3.8558,Encontrado,3.8762
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,24,3.883,Encontrado,3.8765
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,25,3.8744,Encontrado,3.8764
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,26,3.8736,Encontrado,3.8763
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,27,3.8692,Encontrado,3.8761
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,28,3.8658,Encontrado,3.8757
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,29,3.8642,Encontrado,3.8753
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,Sequencial,30,3.8684,Encontrado,3.8751
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,1,0.22,Encontrado,3.7572
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,2,0.1784,Encontrado,3.6453
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,3,0.1767,Encontrado,3.5402
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,4,0.2087,Encontrado,3.4422
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,5,0.1815,Encontrado,3.3491
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,6,0.1811,Encontrado,3.2611
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,7,0.1698,Encontrado,3.1775
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,8,0.1756,Encontrado,3.0985
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,9,0.1722,Encontrado,3.0235
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,10,0.1879,Encontrado,2.9526
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,11,0.1788,Encontrado,2.8849
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,12,0.1726,Encontrado,2.8204
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,13,0.1791,Encontrado,2.7589
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,14,0.1797,Encontrado,2.7003
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,15,0.1733,Encontrado,2.6442
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,16,0.1723,Encontrado,2.5904
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,17,0.1738,Encontrado,2.539
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,18,0.1811,Encontrado,2.4899
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,19,0.172,Encontrado,2.4426
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,20,0.1737,Encontrado,2.3972
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,21,0.1825,Encontrado,2.3538
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,22,0.172,Encontrado,2.3118
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,23,0.1844,Encontrado,2.2717
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,24,0.208,Encontrado,2.2335
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,25,0.1785,Encontrado,2.1961
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,26,0.173,Encontrado,2.16
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,27,0.1682,Encontrado,2.125
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,28,0.1854,Encontrado,2.0916
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,29,0.1712,Encontrado,2.059
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Processos,30,0.1787,Encontrado,2.0277
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,1,0.0109,Encontrado,1.9946
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,2,0.0054,Encontrado,1.9626
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,3,0.0106,Encontrado,1.9316
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,4,0.0054,Encontrado,1.9015
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,5,0.0104,Encontrado,1.8724
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,6,0.0054,Encontrado,1.8441
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,7,0.0105,Encontrado,1.8167
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,8,0.0056,Encontrado,1.7901
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,9,0.0054,Encontrado,1.7642
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,10,0.0106,Encontrado,1.7392
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,11,0.0105,Encontrado,1.7148
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,12,0.0054,Encontrado,1.6911
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,13,0.0105,Encontrado,1.6681
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,14,0.0055,Encontrado,1.6456
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,15,0.0106,Encontrado,1.6238
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,16,0.0055,Encontrado,1.6025
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,17,0.0105,Encontrado,1.5818
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,18,0.0105,Encontrado,1.5617
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,19,0.0105,Encontrado,1.5421
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,20,0.0105,Encontrado,1.5229
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,21,0.0105,Encontrado,1.5042
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,22,0.0054,Encontrado,1.486
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,23,0.0105,Encontrado,1.4682
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,24,0.0054,Encontrado,1.4508
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,25,0.0054,Encontrado,1.4338
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,26,0.0054,Encontrado,1.4172
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,27,0.0053,Encontrado,1.4009
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,28,0.0106,Encontrado,1.3851
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,29,0.0105,Encontrado,1.3697
+14-04-2026 21:02:45,Fedora Linux 43,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,4,15.5,2 Threads,30,0.0106,Encontrado,1.3546
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,1,9.5557,Não Encontrado,9.5557
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,2,9.848,Não Encontrado,9.7018
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,3,9.8551,Não Encontrado,9.7529
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,4,10.7075,Não Encontrado,9.9916
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,5,9.9526,Não Encontrado,9.9838
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,6,9.2254,Não Encontrado,9.8574
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,7,9.0667,Não Encontrado,9.7444
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,8,8.7463,Não Encontrado,9.6197
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,9,9.2977,Não Encontrado,9.5839
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,10,9.3453,Não Encontrado,9.56
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,11,9.1554,Não Encontrado,9.5232
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,12,9.0434,Não Encontrado,9.4833
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,13,8.9892,Não Encontrado,9.4453
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,14,9.2897,Não Encontrado,9.4341
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,15,8.8525,Não Encontrado,9.3954
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,16,9.6799,Não Encontrado,9.4131
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,17,9.6988,Não Encontrado,9.4299
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,18,10.4509,Não Encontrado,9.4867
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,19,10.0463,Não Encontrado,9.5161
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,20,9.9382,Não Encontrado,9.5372
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,21,11.2012,Não Encontrado,9.6165
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,22,10.2685,Não Encontrado,9.6461
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,23,9.8011,Não Encontrado,9.6528
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,24,10.141,Não Encontrado,9.6732
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,25,10.3736,Não Encontrado,9.7012
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,26,10.6549,Não Encontrado,9.7379
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,27,8.7351,Não Encontrado,9.7007
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,28,9.4363,Não Encontrado,9.6913
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,29,9.7251,Não Encontrado,9.6925
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,Sequencial,30,8.8445,Não Encontrado,9.6642
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,1,58.6002,Não Encontrado,11.2428
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,2,61.8375,Não Encontrado,12.8239
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,3,62.6003,Não Encontrado,14.3322
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,4,62.0878,Não Encontrado,15.7368
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,5,65.2159,Não Encontrado,17.1505
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,6,62.6215,Não Encontrado,18.4136
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,7,64.2679,Não Encontrado,19.6529
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,8,63.7344,Não Encontrado,20.8129
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,9,62.6154,Não Encontrado,21.8848
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,10,63.0052,Não Encontrado,22.9128
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,11,61.5199,Não Encontrado,23.8544
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,12,62.0473,Não Encontrado,24.7638
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,13,62.1958,Não Encontrado,25.6343
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,14,62.2071,Não Encontrado,26.4655
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,15,63.8046,Não Encontrado,27.2953
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,16,68.1157,Não Encontrado,28.1827
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,17,63.1803,Não Encontrado,28.9273
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,18,63.7514,Não Encontrado,29.6528
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,19,63.806,Não Encontrado,30.3498
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,20,63.9358,Não Encontrado,31.0215
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,21,63.7724,Não Encontrado,31.6637
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,22,63.8539,Não Encontrado,32.2827
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,23,63.3229,Não Encontrado,32.8684
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,24,63.4403,Não Encontrado,33.4345
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,25,65.1106,Não Encontrado,34.0105
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,26,63.4455,Não Encontrado,34.5361
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,27,61.4974,Não Encontrado,35.0091
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,28,62.1949,Não Encontrado,35.4778
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,29,62.3851,Não Encontrado,35.9339
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Processos,30,62.2144,Não Encontrado,36.3719
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,1,8.9134,Não Encontrado,35.9217
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,2,8.9329,Não Encontrado,35.4864
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,3,8.8187,Não Encontrado,35.0631
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,4,8.4799,Não Encontrado,34.6478
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,5,8.7246,Não Encontrado,34.249
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,6,8.8806,Não Encontrado,33.8646
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,7,10.0316,Não Encontrado,33.5089
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,8,10.1371,Não Encontrado,33.1652
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,9,10.0384,Não Encontrado,32.83
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,10,9.4321,Não Encontrado,32.4957
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,11,9.8414,Não Encontrado,32.1767
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,12,10.0062,Não Encontrado,31.8688
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,13,9.9606,Não Encontrado,31.5686
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,14,9.6579,Não Encontrado,31.2725
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,15,9.6494,Não Encontrado,30.9842
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,16,9.7078,Não Encontrado,30.7043
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,17,9.9134,Não Encontrado,30.4343
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,18,9.9239,Não Encontrado,30.1713
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,19,10.9303,Não Encontrado,29.9278
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,20,10.2041,Não Encontrado,29.6812
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,21,11.4257,Não Encontrado,29.4558
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,22,10.3728,Não Encontrado,29.2231
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,23,11.1571,Não Encontrado,29.0055
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,24,13.0034,Não Encontrado,28.815
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,25,11.4753,Não Encontrado,28.611
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,26,11.505,Não Encontrado,28.4121
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,27,10.7511,Não Encontrado,28.2091
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,28,11.6175,Não Encontrado,28.0205
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,29,10.888,Não Encontrado,27.828
+15-04-2026 22:22:36,Windows 11 (v10.0.26200),Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,8,15.85,8 Threads,30,11.0038,Não Encontrado,27.6411
